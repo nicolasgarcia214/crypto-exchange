@@ -1,0 +1,26 @@
+################################################################################
+################################## Projects ###################################
+################################################################################
+#
+# Fill the fields in angle brackets <> as indicated in these comments.
+# These comments will not appear in the final commit message.
+# <feature>: Name.
+# <state>: Init, In progress or Done
+# <item>: Brief description of what you did
+# The line after the commit title and the final line MUST be blank,
+# but there must not be a blank line at the beginning.
+#
+# Feel free of delete or add as much items as you want
+#
+####### begin template #######
+<feature>: <state>
+
+- <item>.
+- <item>.
+- <item>.
+
+######## end template ########
+#
+# To use this template automatically every time you commit, run
+# $ git config --local commit.template commit-msg.txt
+#
